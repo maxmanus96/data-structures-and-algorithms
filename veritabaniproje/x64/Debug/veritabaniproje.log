@@ -1,0 +1,3 @@
+﻿  stdafx.cpp
+  veritabaniproje.cpp
+LINK : fatal error LNK1207: incompatible PDB format in 'C:\Users\msı\Desktop\VeriYapilarıProje2\veritabaniİNTliOdev2\veritabaniproje\x64\Debug\veritabaniproje.pdb'; delete and rebuild
